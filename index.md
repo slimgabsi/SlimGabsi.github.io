@@ -1,6 +1,4 @@
-<head>
-<meta name="google-site-verification" content="HNu5FmPIEx5bCXTNW04ymYwRvu4PrctQMv148r2goE8" />
-</head>
+
 ### My GitHub repositories
 
 * <a href="https://github.com/SlimGabsi/Unity-3D-WebGl-Browser-Scripting">github.com/SlimGabsi/Unity-3D-WebGl-Browser-Scripting</a> : Communication between unity WebGL and external JS.
