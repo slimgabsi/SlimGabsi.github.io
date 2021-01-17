@@ -2,7 +2,6 @@ title: Slim Gabsi's Blog
 email: slimgabsi287@gmail.com
 description: Slim's Blog
 author: Slim Gabsi
-# baseurl:            "/"
 url: "https://slimgabsi.github.io"
-theme: jekyll-theme-hacker
 google-site-verification : HNu5FmPIEx5bCXTNW04ymYwRvu4PrctQMv148r2goE8
+theme: jekyll-theme-hacker
