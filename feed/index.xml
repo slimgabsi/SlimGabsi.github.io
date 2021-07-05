@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Slim Gabsi</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Mon, 05 Jul 2021 13:52:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/07/62206183_2511471395530968_1783506854953877504_n.png</url>
+	<title>Slim Gabsi</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
+</rss>
